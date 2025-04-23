@@ -1,3 +1,2 @@
-number1 = orc(21) 
-
-print(number1) 
+number1 = 324  
+print(number1 ** 2) 
